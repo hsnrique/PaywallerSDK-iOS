@@ -1,5 +1,5 @@
 
-# PaywallerSDK-iOS
+# PaywallerSDK-iOS - 
 
 Design long paywalls remotely withot needing developers to make A/B tests faster and easier.
 
